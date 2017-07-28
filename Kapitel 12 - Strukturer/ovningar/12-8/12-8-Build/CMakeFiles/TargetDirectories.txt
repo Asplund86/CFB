@@ -1,0 +1,3 @@
+/home/emil/code/CFB/Kapitel 12 - Strukturer/ovningar/12-8/12-8-Build/CMakeFiles/rebuild_cache.dir
+/home/emil/code/CFB/Kapitel 12 - Strukturer/ovningar/12-8/12-8-Build/CMakeFiles/CFBCMake.dir
+/home/emil/code/CFB/Kapitel 12 - Strukturer/ovningar/12-8/12-8-Build/CMakeFiles/edit_cache.dir

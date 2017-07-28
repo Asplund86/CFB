@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -rdynamic "CMakeFiles//home/emil/code/CFB/Kapitel 12 - Strukturer/ovningar/12-8/12-8-Build.dir/main.c.o"  -o "/home/emil/code/CFB/Kapitel 12 - Strukturer/ovningar/12-8/12-8-Build" 

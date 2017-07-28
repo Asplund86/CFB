@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -rdynamic "CMakeFiles/\$PROJECT_BINARY_DIR.dir/main.c.o"  -o "\$PROJECT_BINARY_DIR" 

@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -rdynamic CMakeFiles/CMAKE_BINARY_DIR.dir/main.c.o  -o CMAKE_BINARY_DIR 
